@@ -5,7 +5,7 @@
 <div class="carousel">
    <div class="caro-content">
       <img src="img/logo/mac.png" alt="" class="brand-image">
-<h1 style="color:#00214d">ASL Comp menyediakan berbagai alat elektronik dan kebutuhan komputer</h1>
+      <h1 style="color:#00214d">ASL Comp menyediakan berbagai alat elektronik dan kebutuhan komputer</h1>
    </div>
 </div>
 <div class="content">
@@ -212,5 +212,7 @@
    <a href="#">Selengkapnya..</a>
    </div>
 </div>
+
+
     
 @endsection

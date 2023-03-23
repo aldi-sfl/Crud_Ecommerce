@@ -14,6 +14,7 @@
          trigger="hover"
          style="width:40px;height:40px">
          </lord-icon></a></li>
+         
        <li class="link"><a href="#">Login</a></li>
        <li class="link"><a href="#">Register</a></li>
      </ul>
